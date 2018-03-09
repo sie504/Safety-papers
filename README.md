@@ -5,7 +5,14 @@
 
 ### 简介
 
-#### [Php函数安全Windows系列之FindFirstFile](https://github.com/sie504/Safety-papers/blob/master/php-file-onsec.whitepaper-02.eng.pdf)
+#### [php-file-onsec.whitepaper-02.eng.pdf](https://github.com/sie504/Safety-papers/blob/master/php-file-onsec.whitepaper-02.eng.pdf)
+
+>Php函数安全Windows系列之FindFirstFile
+
+
+#### [Web前端安全](https://github.com/sie504/Safety-papers/blob/master/Web%E5%89%8D%E7%AB%AF%E5%AE%89%E5%85%A8.pdf)
+
+> Web前端安全知识
 
 ### 来源
 
